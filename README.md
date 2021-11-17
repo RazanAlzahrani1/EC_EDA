@@ -2,7 +2,7 @@
 
 
 ### Company Background (Scenario):
-Electronics company (EC) is Saudi Arabia-company based on sales different types of electronics such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
+Electronics company (E) is Saudi Arabia-company based on sales different types of electronics such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
 
 ### Motivation:
 Electronic company want to do analyze sales performance for improving sales in one month.
