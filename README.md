@@ -5,7 +5,7 @@
 Electronics company (EC) is Saudi Arabia-company based on sales different types of electronics such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
 
 ### Motivation:
-E company want to do sales analytics for forecasting future sales performance and for improving sales.
+Electronic company want to do analyze sales performance for improving sales in one month.
 
 
 ### Questions:
