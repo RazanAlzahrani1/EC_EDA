@@ -31,8 +31,6 @@ Order Date - This is the date the customer is requesting the order be shipped.
 Purchase Address –is shipping address.
 
 ### Tools:
-1-SQL:
-Using some command.
+1. Numpy and Pandas 
+2. Matplotlib and Seaborn
 
-2-PYTHON:
-Using libraries like Pandas, NumPy and Matplotib.
