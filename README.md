@@ -16,7 +16,7 @@ Q2: At any day seles increased?
 Q3: what day have the highest earning in this month?
 
 ### Data Description:
-The data will be used in this project is provided by kaggle. The Sales Product Data provided in .CSV format. it contains of 17539 rows and set of columns:
+The data will be used in this project is provided by kaggle. The Sales Product Data provided in .CSV format. it contains of 18383 rows and set of columns:
 
 Order ID - An Order ID is the number system that uses to keep track of orders(unique number).
 
