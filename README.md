@@ -31,7 +31,8 @@ Order Date - This is the date the customer is requesting the order be shipped.
 Purchase Address –is shipping address.
 
 ### Tools:
-1. Numpy and Pandas 
-2. Matplotlib
-3. datetime 
+•	NumPy and Pandas for data manipulation
+•	Matplotlib for visualize the data
+•	Datetime for working with dates
+
 
