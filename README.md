@@ -13,7 +13,7 @@ Q1: What product sold the most?
 
 Q2: At any day seles increased?
 
-Q3: what day have the highest earning in this month?
+Q3: what week have the highest earning in this month?
 
 ### Data Description:
 The data will be used in this project is provided by kaggle. The Sales Product Data provided in .CSV format. it contains of 18383 rows and set of columns:
@@ -32,5 +32,6 @@ Purchase Address –is shipping address.
 
 ### Tools:
 1. Numpy and Pandas 
-2. Matplotlib and Seaborn
+2. Matplotlib
+3. datetime 
 
