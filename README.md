@@ -32,7 +32,9 @@ Purchase Address –is shipping address.
 
 ### Tools:
 •	NumPy and Pandas for data manipulation
+
 •	Matplotlib for visualize the data
+
 •	Datetime for working with dates
 
 
