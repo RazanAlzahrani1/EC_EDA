@@ -1,42 +1,31 @@
-# PRODUCT SALES FOR E COMPANY
+# Product Sales for Electronic company
 
 
-### Company Background (Scenario):
+### Abstract:
 
-Electronics company (E) is Saudi Arabia-company based on sales different types of electronics such as Apple Air pods Headphones, Batteries, USB-C Charging Cable and laptops etc..
+The goal of this project is to analyze sales performance for improving sales for the future months. The used data in this project provided by <a href="https://www.kaggle.com/knightbearr/sales-product-data">Kaggle</a>.
 
-### Motivation:
+### Design::
 
-Electronic company want to do analyze sales performance for improving sales in one month.
+This project is one of the T5 Data Science Boot Camp requirements the data provided by <a href="https://www.kaggle.com/knightbearr/sales-product-data">Kaggle</a>. The problem is the electronic company wants to analyze sales performance to improve sales for the future months. To solve this problem, we need to answer three questions:
 
-
-### Questions:
-
-Q1: What product sold the most?
-
-Q2: At any day seles increased?
-
-Q3: what week have the highest earning in this month?
+Q1. What product ordered the most?
+Q2. At any day orders are increased?
+Q3. what week have the highest earning in this month?
 
 
-### Data Description:
+### Data:
 
-The data will be used in this project is provided by <a href="https://www.kaggle.com/knightbearr/sales-product-data">Kaggle</a>.Data is provided in .CSV format. it contains of 18383 rows and set of columns.
+Dataset is provided in .CSV format.it contains of 18383 rows and 6 columns, each order has 10 features after modifying the data as we need, the most relevant feature to this project is the product which contains the product name. Some other features are extracted from other feature like total price extracted from quantity order and price each. Also, we extracted date only from order date after that we can extract the week number based on the date.
 
-the columns contains:
 
-1-Order ID - An Order ID is the number system that uses to keep track of orders(unique number).
+### Algorithms:
 
-2-Product - The product that have been sold.
-
-3-Quantity Ordered - Ordered Quantity is the total item quantity ordered in the initial order.
-
-4-Price Each - The price of each product.
-
-5-Order Date - This is the date the customer is requesting the order be shipped.
-
-6-Purchase Address –is shipping address.
-
+1.	Convert data type of features 
+2.	Adding four features 
+3.	Data Cleaning 
+4.	Using Group By and compute sum on specific column 
+5.	Visualized data
 
 ### Tools:
 
