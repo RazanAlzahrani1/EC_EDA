@@ -10,7 +10,9 @@ The goal of this project is to analyze sales performance for improving sales for
 This project is one of the T5 Data Science Boot Camp requirements the data provided by <a href="https://www.kaggle.com/knightbearr/sales-product-data">Kaggle</a>. The problem is the electronic company wants to analyze sales performance to improve sales for the future months. To solve this problem, we need to answer three questions:
 
 Q1. What product ordered the most?
+
 Q2. At any day orders are increased?
+
 Q3. what week have the highest earning in this month?
 
 
