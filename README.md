@@ -46,6 +46,6 @@ the columns contains:
 
 •	Matplotlib for visualize the data
 
-•	Datetime for working with dates
+•	Datetime for working with dates.
 
 
